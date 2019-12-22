@@ -36,7 +36,6 @@ The results show that:
 * The range of tracks in the store mostly reflects the sales performance. 
 * The tracks categorized under non-protected media types significantly sell better than protected types. 
 
-![](top_genres.jpg)     ![](track_sales.jpg)      
 ![](sales_country.jpg)
 
 Please see the `chinook.db` database file and the full exploratory data analysis in the `Project4`.ipynb notebook above.
