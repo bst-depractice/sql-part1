@@ -8,7 +8,6 @@ The goal in this project is to find answers on the following:
 
 * Which music genres sell the most tracks in the USA?
 * What is the sales performance of the shop's employees?
-* Which countries have the potential for growth?
 * What percentage of purchases are whole albums versus individual tracks?
 * Which artist is used in most playlists?
 * How many tracks have been purchased versus not purchased?
